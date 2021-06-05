@@ -47,3 +47,6 @@ _R-Programming_
 ## How to access online image
 
 <img src="https://4.img-dpreview.com/files/p/E~TS590x0~articles/3925134721/0266554465.jpegy" height=100px widht=100px>
+
+# How to access links
++ website [pacecollege](https://pace.ac.in)
